@@ -1,5 +1,5 @@
 # The base image is the regular pihole image, version fixed
-FROM pihole/pihole:2022.05
+FROM pihole/pihole:2022.08
 
 ENV DEBIAN_FRONTEND=noninteractive
 
